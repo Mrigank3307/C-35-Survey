@@ -1,7 +1,7 @@
 class Data {
 
 constructor () {
-this.index = 0;
+this.index = 3;
 }
 updateIndex  () {
    
